@@ -86,7 +86,7 @@
 ```
 
 3.在apache-tomcat-8.5.57-src 同级目录新建 catalina-home并保证目录下面文件
-
+![image](https://github.com/guoguoqiang/image/blob/master/my-tomcat/catalina-home.png)
 
 
 **注意：** 上面文件夹apache-tomcat-8.5.57-src里面有的，就剪切过来，没有的就新建一个， bin conf webapps 应该是从apache-tomcat-8.5.57-src剪切过来的
