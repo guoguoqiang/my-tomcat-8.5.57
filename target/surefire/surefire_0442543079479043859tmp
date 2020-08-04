@@ -1,0 +1,7 @@
+#surefire_0
+#Tue Aug 04 15:16:39 CST 2020
+idea.version=2018.3.6
+maven.repo.local=D\:\\maven_repository
+basedir=D\:\\software\\apache-tomcat-8.5.57-src
+user.dir=D\:\\software\\apache-tomcat-8.5.57-src
+localRepository=D\:\\maven_repository
