@@ -93,14 +93,14 @@
 
 4.idea引入项目
 
-File->Open 选择解压的C:\Users\wukong\Downloads\apache-tomcat-8.5.57-src\apache-tomcat-8.5.57-src
+File->Open 选择解压的D:\software\apache-tomcat-8.5.57-src
 
 
 
 # **配置启动**
 
 1. MainClass: org.apache.catalina.startup.Bootstrap
-2. VmOptions: -Dcatalina.home=C:\Users\wukong\Downloads\apache-tomcat-8.5.57-src\apache-tomcat-8.5.57-src\catalina-home
+2. VmOptions: -Dcatalina.home=D:\software\apache-tomcat-8.5.57-src\catalina-home
 
 # **启动报错**
 
