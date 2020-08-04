@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 61b0ec1c4fba2ea95cf0fe6de1aa6a4a5c75a192
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -200,6 +203,7 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+<<<<<<< HEAD
 
 
 
@@ -1055,3 +1059,5 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
    the Northern District of California and the state courts of the State of
    California, with venue lying in Santa Clara County, California.
 
+=======
+>>>>>>> 61b0ec1c4fba2ea95cf0fe6de1aa6a4a5c75a192
